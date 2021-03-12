@@ -23,8 +23,8 @@ public final class CodenameGenerator {
 
   private static final String[] TREATS =
       new String[] {
-        "Alpha",
-        "Beta",
+        "Burger",
+        "Ladoo",
         "Cupcake",
         "Donut",
         "Eclair",
